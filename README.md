@@ -19,6 +19,6 @@ Run `npm run build`.
 Run `bash deploy.sh`.
 
 For a repository created from this template, make sure the `gh-pages`
-branch exists before the first deployment. 
+branch exists before the first deployment.
 
 > git branch gh-pages
